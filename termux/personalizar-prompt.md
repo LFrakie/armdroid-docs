@@ -1,4 +1,4 @@
-## Config display path in prompt TERMUX
+# Config display path in prompt TERMUX
 
 export PS1='$(whoami)@$(hostname):$(pwd)'
 
